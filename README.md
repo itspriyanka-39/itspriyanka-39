@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋, I'm Priyanka Singh
 
-<!--
-**itspriyanka-39/itspriyanka-39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student
 
-Here are some ideas to get you started:
+💻 Skills
+- Java
+- JavaScript
+- React.js
+- Node.js
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently
+- Solving GFG 160 DSA Challenge
+- Learning Full Stack Development
+
+📫 Contact
+Email: priyankasingh57893@gmail.com

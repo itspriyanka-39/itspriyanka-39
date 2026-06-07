@@ -84,4 +84,4 @@ Collection of DSA solutions and coding practice.
 ⭐ Thanks for visiting my profile!
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itspriyanka-39&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itspriyanka-39&show_icons=true&theme=github_dark)
